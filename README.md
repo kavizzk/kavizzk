@@ -184,3 +184,280 @@ Goal:
 - ✅ Build AI-powered real-world applications
 
 <br>
+<br>
+
+<h1 align="center">🚀 Featured Projects</h1>
+
+<p align="center">
+Building intelligent applications through AI, Java, Full Stack Development and IoT.
+</p>
+
+---
+
+## 🔐 Threshold Key Management System
+
+> **Final Year Project**
+
+A secure cryptographic key management system implementing **Threshold Cryptography** for distributed key sharing and secure file protection.
+
+<p>
+
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Cryptography-6A1B9A?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Tkinter-FFB000?style=for-the-badge"/>
+
+</p>
+
+🔗 Repository
+
+https://github.com/kavizzk/Threshold-Key-Management-System
+
+---
+
+## 📸 Photographer Booking System (BookMySnap)
+
+A modern **MERN Stack** web application connecting customers with professional photographers for bookings, events and photo sessions.
+
+<p>
+
+<img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express"/>
+
+<img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black"/>
+
+<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white"/>
+
+</p>
+
+🔗 Repository
+
+https://github.com/kavizzk/Photographer-Booking-System-BookMySnap
+
+---
+
+## 🎙 Voice Assistant Using AI
+
+An AI-powered voice assistant capable of understanding user commands using speech recognition and natural language processing techniques.
+
+<p>
+
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+
+<img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+
+</p>
+
+🔗 Repository
+
+https://github.com/kavizzk/Voice-Assistant-Using-AI
+
+---
+
+## 🩺 Diabetic Foot Ulcer Detection Using IoT
+
+IoT healthcare solution designed to monitor diabetic patients by measuring temperature and pressure using sensors connected to a mobile application.
+
+<p>
+
+<img src="https://img.shields.io/badge/ESP32-000000?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/IoT-0A66C2?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Blynk-23C48E?style=for-the-badge"/>
+
+</p>
+
+🔗 Repository
+
+https://github.com/kavizzk/Foot-ulcer-detection-using-Iot
+
+---
+
+## 🎓 Student Management System
+
+Java console application implementing Object-Oriented Programming concepts to efficiently manage student information and academic records.
+
+<p>
+
+<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/OOP-8E24AA?style=for-the-badge"/>
+
+</p>
+
+🔗 Repository
+
+https://github.com/kavizzk/Student-Management-System
+
+---
+
+## 👨‍💼 Employee Management System
+
+Java application developed to perform employee record management with clean object-oriented design and modular programming practices.
+
+<p>
+
+<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/CRUD-1976D2?style=for-the-badge"/>
+
+</p>
+
+🔗 Repository
+
+https://github.com/kavizzk/Employee-Management-System
+
+---
+
+<h3 align="center">
+
+⭐ More projects available in my repositories ⭐
+
+</h3>
+
+<br>
+<br>
+
+<h1 align="center">📊 GitHub Analytics</h1>
+
+<p align="center">
+  <i>Consistency is more important than intensity.</i>
+</p>
+
+---
+
+<h2 align="center">📈 GitHub Statistics</h2>
+
+<p align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=kavizzk&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github"/>
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kavizzk&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+---
+
+<h2 align="center">🔥 Contribution Streak</h2>
+
+<p align="center">
+
+<img src="https://streak-stats.demolab.com?user=kavizzk&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+---
+
+<h2 align="center">📉 Contribution Graph</h2>
+
+<p align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=kavizzk&theme=tokyo-night&hide_border=true"/>
+
+</p>
+
+---
+
+<h2 align="center">🏆 GitHub Achievements</h2>
+
+<p align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=kavizzk&theme=tokyonight&no-frame=true&row=1&column=6"/>
+
+</p>
+
+---
+
+<h2 align="center">📌 Profile Summary</h2>
+
+<p align="center">
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kavizzk&theme=tokyonight"/>
+
+</p>
+
+---
+
+<h2 align="center">💻 Productive Time</h2>
+
+<p align="center">
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=kavizzk&theme=tokyonight&utcOffset=5.5"/>
+
+</p>
+
+<br>
+---
+
+<h1 align="center">🤝 Let's Connect</h1>
+
+<p align="center">
+
+<a href="mailto:kavitha.s09bvn@gmail.com">
+<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://www.linkedin.com/in/kavitha-s-8252b4298">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
+</a>
+
+<a href="https://github.com/kavizzk">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
+</a>
+
+</p>
+
+---
+
+<h2 align="center">💬 Favorite Quote</h2>
+
+<p align="center">
+
+<i>
+
+"Great software isn't just written—
+it's thoughtfully designed,
+carefully built,
+and continuously improved."
+
+</i>
+
+</p>
+
+---
+
+<h2 align="center">🐍 Contribution Snake</h2>
+
+<p align="center">
+
+<img src="https://raw.githubusercontent.com/kavizzk/kavizzk/output/github-contribution-grid-snake.svg"/>
+
+</p>
+
+---
+
+<h3 align="center">
+
+⭐ Thanks for visiting my profile ⭐
+
+</h3>
+
+<p align="center">
+
+If you like my work,
+consider giving ⭐ to my repositories.
+
+</p>
+
+---
+
+<p align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=140&section=footer&color=gradient&customColorList=12,20,24,30"/>
+
+</p>
