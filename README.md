@@ -285,35 +285,6 @@ Java Developer | Spring Boot Developer | Full Stack Enthusiast
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=kavizzk&theme=tokyonight&hide_border=true" />
 </p>
 
----
-
-<!-- ===================== CONTRIBUTION GRAPH ===================== -->
-
-
-
----
-
-## 📊 GitHub Overview
-
-<p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=kavizzk&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github"
-    alt="GitHub Statistics"
-    height="180"
-  />
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=kavizzk&layout=compact&theme=tokyonight&hide_border=true"
-    alt="Most Used Languages"
-    height="180"
-  />
-</p>
-
-<p align="center">
-  <img
-    src="https://streak-stats.demolab.com?user=kavizzk&theme=tokyonight&hide_border=true"
-    alt="GitHub Contribution Streak"
-  />
-</p>
 
 ---
 
@@ -348,25 +319,6 @@ Java Developer | Spring Boot Developer | Full Stack Enthusiast
 
 ---
 
-## 🤝 Let's Connect
-
-<p align="center">
-  <a href="https://github.com/kavizzk">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-  <a href="https://www.linkedin.com/in/kavitha-s-8252b4298">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="mailto:kavitha.s09bvn@gmail.com">
-    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-</p>
-
-<p align="center">
-  <i>"Learning consistently. Building practically. Growing every day."</i>
-</p>
-
----
 
 <!-- ===================== CONNECT ===================== -->
 
