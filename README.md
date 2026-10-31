@@ -290,27 +290,80 @@ Java Developer | Spring Boot Developer | Full Stack Enthusiast
 <!-- ===================== CONTRIBUTION GRAPH ===================== -->
 
 
-## 📈 Contribution Activity
+
+---
+
+## 📊 GitHub Overview
 
 <p align="center">
   <img
-    src="https://github-readme-activity-graph.vercel.app/graph?username=kavizzk&theme=tokyo-night&hide_border=true"
-    alt="Kavitha's GitHub Contribution Graph"
-    width="100%"
+    src="https://github-readme-stats.vercel.app/api?username=kavizzk&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github"
+    alt="GitHub Statistics"
+    height="180"
+  />
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=kavizzk&layout=compact&theme=tokyonight&hide_border=true"
+    alt="Most Used Languages"
+    height="180"
+  />
+</p>
+
+<p align="center">
+  <img
+    src="https://streak-stats.demolab.com?user=kavizzk&theme=tokyonight&hide_border=true"
+    alt="GitHub Contribution Streak"
   />
 </p>
 
 ---
 
-<!-- ===================== TROPHIES ===================== -->
+## 💡 What I'm Focusing On
 
-## 🏆 GitHub Trophies
+<table>
+<tr>
+<td width="50%">
+
+**Backend Development**
+
+- Java
+- Spring Boot
+- REST APIs
+- Spring Security
+- Microservices
+
+</td>
+<td width="50%">
+
+**Problem Solving & Modern Tech**
+
+- Data Structures & Algorithms
+- Java Stream API
+- SQL
+- RabbitMQ
+- Generative AI
+
+</td>
+</tr>
+</table>
+
+---
+
+## 🤝 Let's Connect
 
 <p align="center">
-  <img
-    src="https://github-profile-trophy.vercel.app/?username=kavizzk&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4"
-    alt="GitHub Trophies"
-  />
+  <a href="https://github.com/kavizzk">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/kavitha-s-8252b4298">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:kavitha.s09bvn@gmail.com">
+    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</p>
+
+<p align="center">
+  <i>"Learning consistently. Building practically. Growing every day."</i>
 </p>
 
 ---
