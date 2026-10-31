@@ -289,10 +289,15 @@ Java Developer | Spring Boot Developer | Full Stack Enthusiast
 
 <!-- ===================== CONTRIBUTION GRAPH ===================== -->
 
+
 ## 📈 Contribution Activity
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=kavizzk&theme=tokyo-night&hide_border=true" />
+  <img
+    src="https://github-readme-activity-graph.vercel.app/graph?username=kavizzk&theme=tokyo-night&hide_border=true"
+    alt="Kavitha's GitHub Contribution Graph"
+    width="100%"
+  />
 </p>
 
 ---
@@ -302,7 +307,10 @@ Java Developer | Spring Boot Developer | Full Stack Enthusiast
 ## 🏆 GitHub Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=kavizzk&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4" />
+  <img
+    src="https://github-profile-trophy.vercel.app/?username=kavizzk&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4"
+    alt="GitHub Trophies"
+  />
 </p>
 
 ---
